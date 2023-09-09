@@ -24,16 +24,17 @@
 <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 </div>
-### Ferramentas:
 
+### Ferramentas:
 <div align="start" valign="top"><br>
+  
 <img alt="Visual Studio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 <img alt="Windows" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 
 </div> 
-### Estudando no momento:
 
+### Estudando no momento:
 <div align="start" valign="top"><br>
   
 <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
